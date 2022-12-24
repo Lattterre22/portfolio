@@ -1,5 +1,6 @@
 body {
     font-family: "Arial", sans-serif;
+  background: blanchedalmond;
 }
 
 .font-primary {
@@ -33,7 +34,7 @@ a.font-black {
 
 #about img {
     border-radius: 50%;
-    width: 150px;
+    width: 20vh;
     margin-bottom: 10px;
 }
 
